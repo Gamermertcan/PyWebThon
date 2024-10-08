@@ -6,4 +6,4 @@ Be Sure [Python](https://python.org) is Installed
 Download PyWebThon.zip On [Github](https://github.com/Gamermertcan/PyWebThon/releases)
 Open the PyWebThon.zip On Project Folder
 Import The Library
-```import PyWebThon```
+`import PyWebThon`
